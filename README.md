@@ -22,7 +22,7 @@
     <marquee scrollamount="15" behavior="alternate"><a href="https://missav.ai/dm45">無碼</a></marquee>
     <marquee scrollamount="15" behavior="alternate"><a href="https://cn.pornhub.com/">歐美</a></marquee>
     <marquee scrollamount="15" behavior="alternate"><a href="https://www.google.com/search?q=Nhentai&oq=Nhentai&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGEEyBggDEEUYPNIBCTE5OTc1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8">國際漫畫</a></marquee>
-    <marquee scrollamount="15" behavior="alternate"><a href="https://www.google.com/search?q=a%E6%BC%AB&sca_esv=d6b7cd5f9271c9c7&ei=vW9FaL7bG_nT1e8P_4iD4AI&ved=0ahUKEwj-rZKi2OGNAxX5afUHHX_EACwQ4dUDCBA&uact=5&oq=a%E6%BC%AB&gs_lp=Egxnd3Mtd2l6LXNlcnAiBGHmvKtIr1BQrgxYskZwBXgBkAEAmAExoAHTAaoBATW4AQPIAQD4AQGYAgOgAj-oAgLCAhQQABjjBBi0AhiJBRjpBBjqAtgBAcICFBAAGIAEGOMEGLQCGOkEGOoC2AEBwgILEAAYgAQYsQMYgwHCAg4QLhiABBixAxjRAxjHAcICCBAAGIAEGLEDwgIREC4YgAQYsQMY0QMYgwEYxwGYAwXxBQ8vQZs9EWlEugYECAEYB5IHATOgB_cMsgcBMbgHN8IHBTAuMi4xyAcL&sclient=gws-wiz-serp">韓漫</a></marquee>
+    <marquee scrollamount="15" behavior="alternate"><a href="https://18comic.vip/search/photos?search_query=%E7%A6%81%E6%BC%AB%E6%9B%B8%E5%BA%AB">韓漫</a></marquee>
     <iframe src="https://www3.cbox.ws/box/?boxid=3547130&boxtag=2qaXPU" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
   </div>
 
